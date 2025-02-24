@@ -1,2 +1,3 @@
 I love front end app development.
 I love the ability to build things that I imagine.
+This is a change from Visual Studio Code but will go through the process via command line.
